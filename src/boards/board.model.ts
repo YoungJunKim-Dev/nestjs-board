@@ -1,4 +1,3 @@
-import { BoardStatus } from './board.model';
 export interface Board {
   id: string;
   title: string;
